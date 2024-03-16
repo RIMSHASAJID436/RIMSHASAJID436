@@ -1,6 +1,5 @@
-![logo height="150"](https://github.com/RIMSHASAJID436/RIMSHASAJID436/blob/main/banner.jpg)
+![logo height="100px"](https://github.com/RIMSHASAJID436/RIMSHASAJID436/blob/main/banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Rimsha Sajid</h1>
 <h3 align="center">A Passionate Web Developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
