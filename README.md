@@ -1,4 +1,4 @@
-![logo](https://github.com/RIMSHASAJID436/RIMSHASAJID436/blob/main/banner.jpg)
+![logo height="150"](https://github.com/RIMSHASAJID436/RIMSHASAJID436/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Rimsha Sajid</h1>
 <h3 align="center">A Passionate Web Developer from Pakistan</h3>
