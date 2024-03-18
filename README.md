@@ -1,4 +1,4 @@
-!(https://github.com/RIMSHASAJID436/RIMSHASAJID436/blob/main/Blue%20Nature%20Landscape%20Desktop%20Wallpaper.png)
+![Logo](https://github.com/RIMSHASAJID436/RIMSHASAJID436/blob/main/Blue%20Nature%20Landscape%20Desktop%20Wallpaper.png)
 
 <h3 align="center">A Passionate Web Developer from Pakistan</h3>
 
