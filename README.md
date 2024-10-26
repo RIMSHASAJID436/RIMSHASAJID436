@@ -6,10 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimshasajid436&label=Profile%20views&color=0e75b6&style=flat" alt="rimshasajid436" /> </p>
 
-🔭 I’m currently doing an internship in Web Developement [Calculator](https://rimshasajid436.github.io/calculator/)
-[Portfolio](https://rimshasajid436.github.io/growintern/)
+🔭 I Have Completed An Internship in Web Development at Growintern.
 
-- 🌱 I’m still learning backend developement **React, Angular, etc.**
+- 🌱 I’m still learning backend developement **PHP,Laravel,Angular,SEO etc.**
 -  👨‍💻 All of my projects are available at [https://github.com/RIMSHASAJID436](https://github.com/RIMSHASAJID436)
 
 - 📫 How to reach me **rimshasajid612@gmail.com**
